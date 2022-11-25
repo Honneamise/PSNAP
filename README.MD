@@ -3,7 +3,7 @@
 
 ![image](image.jpg)
 
-## CSPILOT
+## PSNAP
 
 PSNAP it is a personal tracker for the game Marvel Snap.
 
